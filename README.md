@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Michael and I'm currently a student at Florida International University majoring in Mathematical Sciences with a minor in Computer Science and Physics. I really enjoy working with data analytics, machine learning models, and any challenging projects I can come across.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mplaza27&hide=contribs,prs)
+
+
 <!--
 **mplaza27/mplaza27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
