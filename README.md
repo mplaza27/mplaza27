@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Michael%20Plaza&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&fontFamily=Montserrat)
 
 I'm an AI Engineer at IBM where I build agentic systems and automation pipelines for Fortune 500 clients.
-My background is in mathematics. I graduated from FIU's Honors College with a B.S. in Mathematical Sciences and minors in Computer Science and Physics.
+My background is in mathematics as I graduated from FIU's Honors College with a B.S. in Mathematical Sciences and minors in Computer Science and Physics.
 
 </div>
 
