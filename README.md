@@ -37,7 +37,7 @@ I got into the machine learning field with research in computational neuroscienc
 <summary><strong>What I'm working on now</strong></summary>
 <br>
 
-On the side, I've been building small applications to facilitate learning with AI tools, things like [simple-chess]([https://github.com/mplaza27/simple-chess](https://mplaza27.github.io/simple-chess/), [simple-blackjack]([https://github.com/mplaza27/simple-blackjack](https://mplaza27.github.io/simple-blackjack/) and [simple-dominos](https://mplaza27.github.io/simple-dominos/). The idea is to pair classic games with AI-driven features as a way to explore interactive learning.
+On the side, I've been building small applications to facilitate learning with AI tools, things like [simple-chess](https://github.com/mplaza27/simple-chess](https://mplaza27.github.io/simple-chess/), [simple-blackjack](https://github.com/mplaza27/simple-blackjack](https://mplaza27.github.io/simple-blackjack/) and [simple-dominos](https://mplaza27.github.io/simple-dominos/). The idea is to pair classic games with AI-driven features as a way to explore interactive learning.
 
 </details>
 
